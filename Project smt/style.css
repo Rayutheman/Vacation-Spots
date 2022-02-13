@@ -1,0 +1,49 @@
+body{
+    background-color: peachpuff;
+}
+.title{
+    height: 200px;
+    background-image: url(Images/download.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 0px;
+
+    
+}
+.intro{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.destination{
+    text-align: left;
+}
+.destination h3{
+    color: deeppink;
+}
+.destination p{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+.destination h4{
+    color: blue;
+}
+.destination ul{
+    list-style-type: square;
+    color: white;
+}
+.more{
+    text-align: left;
+}
+.more ul li{
+    color: aqua;
+    list-style: square;
+}
+.footer{
+    color: cyan;
+    border: 10px double blue;
+    border-radius: 10px;
+}
